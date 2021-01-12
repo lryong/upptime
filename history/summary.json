@@ -4,19 +4,19 @@
     "url": "http://www.herbert.top:18080",
     "icon": "https://favicons.githubusercontent.com/www.herbert.top",
     "slug": "herbert-s-blog",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 2156,
-    "timeDay": 2156,
-    "timeWeek": 2156,
-    "timeMonth": 2156,
-    "timeYear": 2156,
+    "status": "up",
+    "uptime": "72.00%",
+    "uptimeDay": "72.00%",
+    "uptimeWeek": "72.00%",
+    "uptimeMonth": "72.00%",
+    "uptimeYear": "72.00%",
+    "time": 1936,
+    "timeDay": 1936,
+    "timeWeek": 1936,
+    "timeMonth": 1936,
+    "timeYear": 1936,
     "dailyMinutesDown": {
-      "2021-01-12": 0
+      "2021-01-12": 90
     }
   }
 ]
