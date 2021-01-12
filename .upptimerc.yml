@@ -8,10 +8,3 @@ assignees: # Users to assign downtime issues (optional)
 status-website:
   baseUrl: /upptime # where "repo" is your repository name
   name: Upptime Status Monitor
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-  introTitle: "Herbert's Blog Website's Uptime **Monitor**"
-  introMessage: Good good study, day day up~
