@@ -4,7 +4,7 @@ sites: # List of endpoints to track
   - name: Herbert's Blog
     url: http://www.herbert.top:18080
 assignees: # Users to assign downtime issues (optional)
-  - Herbert
+  - lryong
 status-website:
   baseUrl: /upptime # where "repo" is your repository name
   name: Upptime Status Monitor
