@@ -2,7 +2,7 @@ owner: lryong # GitHub username
 repo: upptime # GitHub repository name
 sites: # List of endpoints to track
   - name: Herbert's Blog
-    url: http://www.herbert.top:18080
+    url: https://blog.herbert.top
 assignees: # Users to assign downtime issues (optional)
   - lryong
 status-website:
