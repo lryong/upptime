@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/blog.herbert.top",
     "slug": "herbert-s-blog",
     "status": "up",
-    "uptime": "97.83%",
+    "uptime": "97.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.88%",
-    "time": 642,
-    "timeDay": 419,
-    "timeWeek": 429,
-    "timeMonth": 461,
-    "timeYear": 536,
+    "uptimeYear": "97.89%",
+    "time": 641,
+    "timeDay": 408,
+    "timeWeek": 427,
+    "timeMonth": 456,
+    "timeYear": 532,
     "dailyMinutesDown": {
       "2021-03-15": 346,
       "2021-03-14": 1440,
@@ -25,8 +25,7 @@
       "2021-03-09": 1440,
       "2021-03-08": 1440,
       "2021-03-07": 634,
-      "2021-03-05": 24,
-      "2021-03-01": 16
+      "2021-03-05": 24
     }
   }
 ]
