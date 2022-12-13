@@ -4,17 +4,17 @@
     "url": "https://blog.herbert.top",
     "icon": "https://favicons.githubusercontent.com/blog.herbert.top",
     "slug": "herbert-s-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "98.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 534,
-    "timeDay": 487,
-    "timeWeek": 1399,
-    "timeMonth": 905,
-    "timeYear": 550,
+    "time": 539,
+    "timeDay": 1932,
+    "timeWeek": 1489,
+    "timeMonth": 960,
+    "timeYear": 557,
     "dailyMinutesDown": {}
   }
 ]
